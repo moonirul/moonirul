@@ -1,4 +1,4 @@
-![logo](https://github.com/moonirul/moonirul/blob/main/ai-engineering-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Md. Monirul Islam</h1>
 <h3 align="center">🚀 AI Engineer | Software Engineer | Automation Specialist from Bangladesh</h3>
