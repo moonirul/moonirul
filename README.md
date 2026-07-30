@@ -1,142 +1,257 @@
+ 
+
 <h1 align="center">Hi 👋, I'm Md. Monirul Islam</h1>
-<h3 align="center">🚀 AI Engineer | Software Engineer | Automation Specialist</h3>
+<h3 align="center">🚀 AI Engineer | Software Engineer | Automation Specialist from Bangladesh</h3>
+<h4 align="center">Artificial Intelligence | Backend Development | Machine Learning | AI Automation</h4>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moonirul&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=moonirul&label=Profile%20views&color=0e75b6&style=flat" alt="moonirul" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-AI Engineer from Bangladesh passionate about building intelligent systems, automation workflows, and scalable software solutions.
+Hello! I'm **Md. Monirul Islam**, a Computer Science and Engineering graduate and AI Engineer from Bangladesh. I specialize in building intelligent automation systems, AI-powered applications, backend services, and machine learning solutions.
 
-Currently working as **AI Automation Engineer at Softvence Delta**, developing AI-powered applications using LLMs, APIs, and modern backend technologies.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Focus Areas:**
-- 🤖 AI Agents, RAG, LangChain, LangGraph, MCP
-- ⚡ AI Automation & Workflow Engineering
-- 🧠 Machine Learning & Computer Vision
-- 🚀 Backend Development with Python & FastAPI
-- 🌐 Full-stack AI Applications
+I have hands-on experience in:
 
----
+- 🤖 AI Engineering: LangChain, LangGraph, AI Agents, RAG, MCP Server, Prompt Engineering
+- ⚡ AI Automation: n8n, OpenAI APIs, Workflow Automation, API Orchestration
+- 🧠 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Computer Vision
+- 🚀 Backend Development: Python, FastAPI, REST APIs, PostgreSQL
+- 📊 Data Science: Pandas, NumPy, OpenCV, Feature Engineering
+- 🌐 Frontend Development: React.js, Tailwind CSS
+- ☁️ Deployment & MLOps: Docker, CI/CD, MLflow, DVC, Cloud Hosting
 
-### 💼 Experience
+**Passionate about developing scalable AI solutions that solve real-world problems through automation, intelligent systems, and innovative engineering.**
 
-**🤖 AI Automation Engineer — Softvence Delta**
-
-- Built 15+ AI automation workflows using Python, FastAPI, n8n, JavaScript, and OpenAI APIs.
-- Integrated AI services and APIs for healthcare, content automation, and business workflows.
-- Designed scalable systems for automation and data processing.
+<br><br>
 
 ---
 
-### 🌐 Connect With Me
+### 💼 Current Role
+
+### 🤖 AI Automation Engineer — Softvence Delta, Dhaka
+
+- Developed **15+ AI automation workflows** using Python, FastAPI, n8n, JavaScript, and OpenAI APIs.
+- Built AI solutions for healthcare, digital publishing, lead intelligence, and content automation.
+- Integrated APIs including OpenAI, Google, Apollo, Hunter, and Apify.
+- Designed scalable systems for workflow automation, data processing, and API integration.
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
 
 <a href="mailto:monirrul.cse@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/moonirul">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/moonirul" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/moonirul">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/moonirul" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://moonirul.github.io">
-<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://moonirul.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-<p align="center">
+<table align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,react,tailwind,postgres,docker,git,github,pytorch,tensorflow,linux"/>
+<tr>
+<td><strong>Programming Languages</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,js,java,c,html,css"/>
+</td>
+</tr>
 
-</p>
+<tr>
+<td><strong>AI & Machine Learning</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</td>
+</tr>
 
-**AI:** LangChain • LangGraph • RAG • AI Agents • OpenAI API  
-**Backend:** Python • FastAPI • REST API • PostgreSQL  
-**ML:** PyTorch • TensorFlow • Scikit-learn • OpenCV  
-**Automation:** n8n • Workflow Automation • API Integration
+<tr>
+<td><strong>Backend Development</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>AI Automation</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</td>
+</tr>
+
+<tr>
+<td><strong>Developer Tools</strong></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</td>
+</tr>
+
+</table>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**🎙️ AI Podcast & WordPress Automation**
-- Automated podcast transcription, blog generation, and content publishing using Whisper, GPT, FastAPI, and n8n.
+### 🎙️ AI Podcast & WordPress Content Automation
 
-**🏥 AI Voice Doctor Appointment System**
-- AI voice receptionist with automated appointment booking using Vapi AI, FastAPI, React, and PostgreSQL.
+**Tech Stack:** Python, FastAPI, OpenAI GPT, Whisper, n8n, Docker
 
-**🩺 ML Diabetes Prediction Platform**
-- AI-powered health prediction system using Machine Learning and Gemini API.
+- Automated podcast transcription and content repurposing.
+- Generated blogs, show notes, and social media content using AI.
+- Integrated Google Drive, Sheets, and WordPress APIs.
 
-**📄 AI Resume Builder SaaS**
-- ATS-friendly resume generation platform powered by Gemini API and automation workflows.
+🔗 GitHub:
+`github.com/moonirul/AI-Powered-Podcast-WordPress-Content-Automation`
 
 ---
 
-### 🔬 Research Interests
+### 🏥 AI Voice Doctor Appointment System
+
+**Tech Stack:** Vapi AI, FastAPI, React, PostgreSQL
+
+- Built an AI voice receptionist for automated healthcare appointments.
+- Developed 24/7 patient management workflow automation.
+
+🔗 Live:
+`app.pixelstack.cloud`
+
+---
+
+### 🩺 ML Based Diabetes Prediction Platform
+
+**Tech Stack:** FastAPI, Scikit-learn, React, Gemini API, n8n
+
+- Developed AI SaaS platform for diabetes risk prediction.
+- Automated health insights using machine learning workflows.
+
+🔗 Live:
+`diabetes-prediction-amber.vercel.app`
+
+---
+
+### 📄 AI Resume Builder SaaS
+
+**Tech Stack:** Google Gemini API, n8n, PDF Generation
+
+- Built ATS-friendly AI resume generation platform.
+- Automated PDF creation and email delivery workflows.
+
+🔗 Live:
+`resume-n8n.vercel.app`
+
+---
+
+## 🔬 Research Interests
 
 - Computer Vision
 - Vision-Language Models
+- Artificial Intelligence
 - Deep Learning
-- Natural Language Processing
-- Multimodal AI
+- NLP
+- Multimodal AI Systems
+
+### Research Projects
+
+📌 **Computer Vision-Based Real-Time Air Quality Index Estimation from Ground-Level Images**
+
+- Developed deep learning-based computer vision methods for real-time AQI estimation.
+
+📌 **Towards Understanding Political Discourse in Bengali Memes: A Vision-Language Approach**
+
+- Explored multimodal AI models for Bengali meme understanding.
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-**B.Sc. in Computer Science & Engineering**  
+🎓 **Bachelor of Science in Computer Science & Engineering**  
 Green University of Bangladesh  
 CGPA: **3.72 / 4.00**
 
-Thesis:  
-*Computer Vision-Based Real-Time Air Quality Index Estimation from Ground-Level Images*
+Thesis:
+**Computer Vision-Based Real-Time Air Quality Index Estimation from Ground-Level Images**
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 🏅 Department Dean’s List Award  
 🏅 Department VC’s List Award  
-🏅 JSC Scholarship Award  
+🏅 JSC Scholarship — Rajshahi Education Board  
 
 ---
 
-### 💻 Problem Solving
+## 💻 Competitive Programming
 
-Solved **150+ algorithmic problems** on:
+- Solved **150+ algorithmic problems**
+- Strong foundation in:
+  - Data Structures
+  - Algorithms
+  - Problem Solving
+
+Profiles:
 
 - LeetCode: `monirul8888`
 - HackerRank: `monirul_88`
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=moonirul&show_icons=true&theme=algolia"/>
 
+</p>
+
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonirul&layout=compact&theme=algolia"/>
 
 </p>
 
----
 
 <p align="center">
-<em>"Building intelligent systems to solve real-world problems."</em>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moonirul&theme=algolia"/>
+
+</p>
+
+
+---
+
+## 🌟 Quote
+
+<p align="center">
+<em>"Building intelligent systems today for solving tomorrow's problems."</em>
 </p>
