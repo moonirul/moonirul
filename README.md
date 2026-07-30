@@ -151,27 +151,7 @@ Profiles:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moonirul&show_icons=true&theme=algolia"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonirul&layout=compact&theme=algolia"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moonirul&theme=algolia"/>
-
-</p>
 
 
 ---
