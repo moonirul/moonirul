@@ -119,86 +119,12 @@ I have hands-on experience in:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎙️ AI Podcast & WordPress Content Automation
-
-**Tech Stack:** Python, FastAPI, OpenAI GPT, Whisper, n8n, Docker
-
-- Automated podcast transcription and content repurposing.
-- Generated blogs, show notes, and social media content using AI.
-- Integrated Google Drive, Sheets, and WordPress APIs.
-
-🔗 GitHub:
-`github.com/moonirul/AI-Powered-Podcast-WordPress-Content-Automation`
-
----
-
-### 🏥 AI Voice Doctor Appointment System
-
-**Tech Stack:** Vapi AI, FastAPI, React, PostgreSQL
-
-- Built an AI voice receptionist for automated healthcare appointments.
-- Developed 24/7 patient management workflow automation.
-
-🔗 Live:
-`app.pixelstack.cloud`
-
----
-
-### 🩺 ML Based Diabetes Prediction Platform
-
-**Tech Stack:** FastAPI, Scikit-learn, React, Gemini API, n8n
-
-- Developed AI SaaS platform for diabetes risk prediction.
-- Automated health insights using machine learning workflows.
-
-🔗 Live:
-`diabetes-prediction-amber.vercel.app`
-
----
-
-### 📄 AI Resume Builder SaaS
-
-**Tech Stack:** Google Gemini API, n8n, PDF Generation
-
-- Built ATS-friendly AI resume generation platform.
-- Automated PDF creation and email delivery workflows.
-
-🔗 Live:
-`resume-n8n.vercel.app`
-
----
-
-## 🔬 Research Interests
-
-- Computer Vision
-- Vision-Language Models
-- Artificial Intelligence
-- Deep Learning
-- NLP
-- Multimodal AI Systems
-
-### Research Projects
-
-📌 **Computer Vision-Based Real-Time Air Quality Index Estimation from Ground-Level Images**
-
-- Developed deep learning-based computer vision methods for real-time AQI estimation.
-
-📌 **Towards Understanding Political Discourse in Bengali Memes: A Vision-Language Approach**
-
-- Explored multimodal AI models for Bengali meme understanding.
-
----
 
 ## 🎓 Education
 
 🎓 **Bachelor of Science in Computer Science & Engineering**  
 Green University of Bangladesh  
 CGPA: **3.72 / 4.00**
-
-Thesis:
-**Computer Vision-Based Real-Time Air Quality Index Estimation from Ground-Level Images**
 
 ---
 
