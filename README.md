@@ -1,68 +1,175 @@
----
+<h1 align="center">Hi 👋, I'm Md. Monirul Islam</h1>
 
-### 👨‍💻 About Me
+<h3 align="center">
+🚀 AI Automation Engineer | Software Engineer | AI/ML Enthusiast
+</h3>
 
-Hello! I'm **Md. Monirul Islam**, a Computer Science & Engineering graduate and **AI Automation Engineer** from Bangladesh. I specialize in building intelligent automation systems, AI-powered applications, scalable backend services, and machine learning solutions.
+<p align="center">
+Building AI-powered applications, automation systems, and scalable backend solutions.
+</p>
 
-I have hands-on experience in:
-
-* 🤖 **AI Engineering:** LangChain, LangGraph, AI Agents, RAG, MCP Server, Prompt Engineering
-* ⚡ **AI Automation:** n8n, OpenAI, Claude & Gemini APIs, Workflow Automation, API Orchestration
-* 🧠 **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Computer Vision
-* 🚀 **Backend Development:** Python, FastAPI, REST APIs, SQLAlchemy, PostgreSQL
-* 📊 **Data Science:** Pandas, NumPy, OpenCV, Feature Engineering
-* 🌐 **Frontend Development:** React.js, Tailwind CSS, HTML5, CSS3
-* ☁️ **DevOps & Deployment:** Docker, Git, Linux, CI/CD, MLflow, DVC
-
-**Passionate about building scalable AI solutions that solve real-world business problems through automation, intelligent systems, and modern software engineering.**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=moonirul&label=Profile%20views&color=0e75b6&style=flat" alt="moonirul" />
+</p>
 
 ---
 
-### 💼 Current Role
+## 👨‍💻 About Me
 
-#### 🤖 AI Automation Engineer — Softvence Delta, Dhaka *(Apr 2026 – Present)*
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* Developed **15+ production-ready AI automation workflows** using Python, FastAPI, n8n, JavaScript, and LLM APIs.
-* Built backend services with REST APIs, database modeling, and automated data processing pipelines.
-* Integrated **10+ third-party APIs**, including OpenAI, Google, Apollo, Hunter, Apify, and other business platforms.
-* Delivered AI solutions for healthcare, lead generation, digital publishing, and business process automation.
+I'm **Md. Monirul Islam**, a Computer Science & Engineering graduate and **AI Automation Engineer** from Bangladesh.
+
+I specialize in:
+
+- 🤖 AI Agents & LLM Applications
+- ⚡ AI Workflow Automation
+- 🚀 Backend API Development
+- 🧠 Machine Learning & NLP Systems
+- 🔗 API Integration & Automation Pipelines
+
+Currently building intelligent systems using modern AI technologies to solve real-world problems.
+
+<br clear="right"/>
 
 ---
 
-### 🌐 Connect with Me
+## 💼 Current Role
 
-* 💼 **LinkedIn:** https://linkedin.com/in/moonirul
-* 💻 **GitHub:** https://github.com/moonirul
-* 🌐 **Portfolio:** https://moonirul.github.io
-* 📧 **Email:** [monirrul.cse@gmail.com](mailto:monirrul.cse@gmail.com)
+### 🤖 AI Automation Engineer — Softvence Delta
+
+- Developed **15+ AI automation workflows** using Python, FastAPI, n8n, JavaScript, and LLM APIs.
+- Built scalable backend services, REST APIs, and automation pipelines.
+- Integrated APIs including OpenAI, Google, Apollo, Hunter, and Apify.
 
 ---
 
-### 🛠️ Languages & Tools
+## 🌐 Connect With Me
 
-**Programming Languages**
+<p align="center">
 
-`Python` • `JavaScript` • `SQL` • `C`
+<a href="mailto:monirrul.cse@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Backend**
+<a href="https://linkedin.com/in/moonirul">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-`FastAPI` • `REST APIs` • `SQLAlchemy` • `PostgreSQL`
+<a href="https://github.com/moonirul">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**AI & Machine Learning**
+<a href="https://moonirul.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-`LangChain` • `LangGraph` • `AI Agents` • `RAG` • `MCP Server` • `OpenAI API` • `Gemini API` • `Claude API` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `Keras`
+</p>
 
-**Automation**
+---
 
-`n8n` • `Workflow Automation` • `Webhooks` • `Google APIs` • `API Integration`
+## 🛠️ Tech Stack
 
-**Frontend**
+<table align="center">
+<tr>
+<td width="25%"><b>Category</b></td>
+<td><b>Technologies</b></td>
+</tr>
 
-`React.js` • `Tailwind CSS` • `HTML5` • `CSS3`
+<tr>
+<td>🤖 AI / ML</td>
+<td>
 
-**DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
-`Docker` • `Git` • `GitHub` • `Linux` • `CI/CD`
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br>
+
+AI Agents • RAG • MCP Server • Prompt Engineering • NLP • Computer Vision
+
+</td>
+</tr>
+
+
+<tr>
+<td>🚀 Backend</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,postgres" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+<br>
+
+FastAPI • REST APIs • SQLAlchemy • PostgreSQL • Database Design
+
+</td>
+</tr>
+
+
+<tr>
+<td>⚡ Automation</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=javascript" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-4285F4?style=for-the-badge"/>
+
+<br>
+
+n8n • Workflow Automation • API Orchestration • Business Automation
+
+</td>
+</tr>
+
+
+<tr>
+<td>🌐 Frontend</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+
+<br>
+
+React.js • Tailwind CSS • Responsive UI Development
+
+</td>
+</tr>
+
+
+<tr>
+<td>☁️ DevOps & Tools</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge"/>
+
+<br>
+
+Docker • Git • GitHub • Linux • CI/CD • Cloud Hosting
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -70,36 +177,49 @@ I have hands-on experience in:
 
 🎓 **Bachelor of Science in Computer Science & Engineering**
 
-**Green University of Bangladesh**
+Green University of Bangladesh
 
-**CGPA:** **3.72 / 4.00**
+CGPA: **3.72 / 4.00**
 
 ---
 
 ## 🏆 Achievements
 
-* 🏅 Department Dean's List Award
-* 🏅 Department VC's List Award
-* 🏅 Junior School Certificate (JSC) Scholarship — Rajshahi Education Board
+🏅 Department Dean's List Award  
+🏅 Department VC's List Award  
+🏅 JSC Scholarship — Rajshahi Education Board  
 
 ---
 
 ## 💻 Competitive Programming
 
-* Solved **150+ algorithmic problems** across LeetCode and HackerRank.
-* Strong foundation in:
-
-  * Data Structures
-  * Algorithms
-  * Problem Solving
+- Solved **150+ algorithmic problems**
+- Strong foundation in:
+  - Data Structures
+  - Algorithms
+  - Problem Solving
 
 **Profiles**
 
-* **LeetCode:** `monirul8888`
-* **HackerRank:** `monirul_88`
+- LeetCode: `monirul8888`
+- HackerRank: `monirul_88`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moonirul&show_icons=true&theme=algolia"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonirul&layout=compact&theme=algolia"/>
+
+</p>
 
 ---
 
 ## 🌟 Quote
 
-> *"The best way to predict the future is to build it with code."*
+<p align="center">
+<em>"Building intelligent systems today for solving tomorrow's problems."</em>
+</p>
