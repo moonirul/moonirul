@@ -1,163 +1,105 @@
- 
-
-<h1 align="center">Hi 👋, I'm Md. Monirul Islam</h1>
-<h3 align="center">🚀 AI Engineer | Software Engineer | Automation Specialist from Bangladesh</h3>
-<h4 align="center">Artificial Intelligence | Backend Development | Machine Learning | AI Automation</h4>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moonirul&label=Profile%20views&color=0e75b6&style=flat" alt="moonirul" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Md. Monirul Islam**, a Computer Science and Engineering graduate and AI Engineer from Bangladesh. I specialize in building intelligent automation systems, AI-powered applications, backend services, and machine learning solutions.
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Hello! I'm **Md. Monirul Islam**, a Computer Science & Engineering graduate and **AI Automation Engineer** from Bangladesh. I specialize in building intelligent automation systems, AI-powered applications, scalable backend services, and machine learning solutions.
 
 I have hands-on experience in:
 
-- 🤖 AI Engineering: LangChain, LangGraph, AI Agents, RAG, MCP Server, Prompt Engineering
-- ⚡ AI Automation: n8n, OpenAI APIs, Workflow Automation, API Orchestration
-- 🧠 Machine Learning: PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Computer Vision
-- 🚀 Backend Development: Python, FastAPI, REST APIs, PostgreSQL
-- 📊 Data Science: Pandas, NumPy, OpenCV, Feature Engineering
-- 🌐 Frontend Development: React.js, Tailwind CSS
-- ☁️ Deployment & MLOps: Docker, CI/CD, MLflow, DVC, Cloud Hosting
+* 🤖 **AI Engineering:** LangChain, LangGraph, AI Agents, RAG, MCP Server, Prompt Engineering
+* ⚡ **AI Automation:** n8n, OpenAI, Claude & Gemini APIs, Workflow Automation, API Orchestration
+* 🧠 **Machine Learning:** PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Computer Vision
+* 🚀 **Backend Development:** Python, FastAPI, REST APIs, SQLAlchemy, PostgreSQL
+* 📊 **Data Science:** Pandas, NumPy, OpenCV, Feature Engineering
+* 🌐 **Frontend Development:** React.js, Tailwind CSS, HTML5, CSS3
+* ☁️ **DevOps & Deployment:** Docker, Git, Linux, CI/CD, MLflow, DVC
 
-**Passionate about developing scalable AI solutions that solve real-world problems through automation, intelligent systems, and innovative engineering.**
-
-<br><br>
+**Passionate about building scalable AI solutions that solve real-world business problems through automation, intelligent systems, and modern software engineering.**
 
 ---
 
 ### 💼 Current Role
 
-### 🤖 AI Automation Engineer — Softvence Delta, Dhaka
+#### 🤖 AI Automation Engineer — Softvence Delta, Dhaka *(Apr 2026 – Present)*
 
-- Developed **15+ AI automation workflows** using Python, FastAPI, n8n, JavaScript, and OpenAI APIs.
-- Built AI solutions for healthcare, digital publishing, lead intelligence, and content automation.
-- Integrated APIs including OpenAI, Google, Apollo, Hunter, and Apify.
-- Designed scalable systems for workflow automation, data processing, and API integration.
+* Developed **15+ production-ready AI automation workflows** using Python, FastAPI, n8n, JavaScript, and LLM APIs.
+* Built backend services with REST APIs, database modeling, and automated data processing pipelines.
+* Integrated **10+ third-party APIs**, including OpenAI, Google, Apollo, Hunter, Apify, and other business platforms.
+* Delivered AI solutions for healthcare, lead generation, digital publishing, and business process automation.
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="center">
-
-<a href="mailto:monirrul.cse@gmail.com">
-<img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/moonirul" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/moonirul" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://moonirul.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
+* 💼 **LinkedIn:** https://linkedin.com/in/moonirul
+* 💻 **GitHub:** https://github.com/moonirul
+* 🌐 **Portfolio:** https://moonirul.github.io
+* 📧 **Email:** [monirrul.cse@gmail.com](mailto:monirrul.cse@gmail.com)
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<table align="center">
+**Programming Languages**
 
-<tr>
-<td><strong>Programming Languages</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,js,java,c,html,css"/>
-</td>
-</tr>
+`Python` • `JavaScript` • `SQL` • `C`
 
-<tr>
-<td><strong>AI & Machine Learning</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</td>
-</tr>
+**Backend**
 
-<tr>
-<td><strong>Backend Development</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres"/>
-</td>
-</tr>
+`FastAPI` • `REST APIs` • `SQLAlchemy` • `PostgreSQL`
 
-<tr>
-<td><strong>AI Automation</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker"/>
-</td>
-</tr>
+**AI & Machine Learning**
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</td>
-</tr>
+`LangChain` • `LangGraph` • `AI Agents` • `RAG` • `MCP Server` • `OpenAI API` • `Gemini API` • `Claude API` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `Keras`
 
-<tr>
-<td><strong>Developer Tools</strong></td>
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</td>
-</tr>
+**Automation**
 
-</table>
+`n8n` • `Workflow Automation` • `Webhooks` • `Google APIs` • `API Integration`
+
+**Frontend**
+
+`React.js` • `Tailwind CSS` • `HTML5` • `CSS3`
+
+**DevOps & Tools**
+
+`Docker` • `Git` • `GitHub` • `Linux` • `CI/CD`
 
 ---
 
-
 ## 🎓 Education
 
-🎓 **Bachelor of Science in Computer Science & Engineering**  
-Green University of Bangladesh  
-CGPA: **3.72 / 4.00**
+🎓 **Bachelor of Science in Computer Science & Engineering**
+
+**Green University of Bangladesh**
+
+**CGPA:** **3.72 / 4.00**
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Department Dean’s List Award  
-🏅 Department VC’s List Award  
-🏅 JSC Scholarship — Rajshahi Education Board  
+* 🏅 Department Dean's List Award
+* 🏅 Department VC's List Award
+* 🏅 Junior School Certificate (JSC) Scholarship — Rajshahi Education Board
 
 ---
 
 ## 💻 Competitive Programming
 
-- Solved **150+ algorithmic problems**
-- Strong foundation in:
-  - Data Structures
-  - Algorithms
-  - Problem Solving
+* Solved **150+ algorithmic problems** across LeetCode and HackerRank.
+* Strong foundation in:
 
-Profiles:
+  * Data Structures
+  * Algorithms
+  * Problem Solving
 
-- LeetCode: `monirul8888`
-- HackerRank: `monirul_88`
+**Profiles**
 
----
-
-
-
+* **LeetCode:** `monirul8888`
+* **HackerRank:** `monirul_88`
 
 ---
 
 ## 🌟 Quote
 
-<p align="center">
-<em>"Building intelligent systems today for solving tomorrow's problems."</em>
-</p>
+> *"The best way to predict the future is to build it with code."*
